@@ -2,7 +2,7 @@
 
 ## a.  Two kinds of philosophy of science
 
-Two quite distinct enterprises have been carried out under the name of "philosophy of science": *philosophy of scientific theories* (*PST*), which deals with what scientists say and believe, and *philosophy of scientific research* (*PSR*), which deals with what scientists do.  Until the 1960s, philosophy of science consisted mainly of philosophy of scientific theories and thus was concerned with questions such as:
+Two quite distinct enterprises have been carried out under the name of "philosophy of science": **philosophy of scientific theories** (**PST**), which deals with what scientists say and believe, and **philosophy of scientific research** (**PSR**), which deals with what scientists do.  Until the 1960s, philosophy of science consisted mainly of philosophy of scientific theories and thus was concerned with questions such as:
 
 * What constitutes a scientific theory?
 * How can one evaluate scientific theories?  e.g. can one speak of a theory as being true or false, and if so, what entitles one to say that a theory is true or to say that it is false?
