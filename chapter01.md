@@ -24,6 +24,8 @@ Sir Karl Popper (1904 [sic] - 1994) worked more in PST than in PSR, but his work
 
 "Critical" refers to the general notion of **criticism**, of which **falsification** is a special case.  For Popper, progress in science (or anything?) comes about through criticism of existing ideas, i.e. by subjecting ideas to tests and seeing how well they fare, with the option of revising or rejecting them if they don't fare well enough.  He often uses the expression "trial and error", alluding to episodes involving "tests", and revision/rejection in response to the outcomes of such tests.  Falsification is the species of criticism in which one determines implications of a **theory** as to what the facts should be and determines whether the facts conform to those implications; if the implications conflict with the facts, the discrepancy between facts and implications **falsifies** the theory.  The more general notion of criticism allows for a theory to fail tests of other kinds, as when one rejects a theory on the grounds that it commits one to "undesirable" entities.  (This idea is developed later by Laudan, who develops a notion scientific "problems" takes in not only "empirical problems" but also "conceptual problems"; see chapter •.)
 
+I have started talking about theories without making clear what a "theory" is.  Popper really doesn't say either.  
+
 # NOTES
 
 [^1]. The term "Robinson Crusoe science" is modeled after "Robinson Crusoe economics", which is the area of economics dealing with how a single individual might deploy resources that he has at his disposal, ignoring any transactions that he might carry out with other persons.
